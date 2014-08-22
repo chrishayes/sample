@@ -1,1 +1,1 @@
-railsturial
+railstutorial
